@@ -6,4 +6,3 @@ namespace: gitops-demo
 resources:
   - ../../base/api
   - ../../base/postgres
-  - prune-demo-configmap.yaml
